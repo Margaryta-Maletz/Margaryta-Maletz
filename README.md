@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Margaryta-Maletz
 <!-- - 👀 I’m interested in front-end -->
-- 🌱 I've been working work as a FE Developer for EPAM since August 2021
+- 🌱 I've been working as a FE Developer for EPAM since August 2021
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me  rita.maletz@gmail.com
 
